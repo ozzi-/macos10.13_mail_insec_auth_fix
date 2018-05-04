@@ -1,4 +1,6 @@
 # Apple Mail Fix - 10.13
+See https://discussions.apple.com/thread/8087473 for infos.
+
 This java programm will manipulate your Apple Mail Account in a way to allow insecure authentication.
 Furtheremore, there is a crude PHP tool that does the same.
 
